@@ -1,4 +1,4 @@
-name: Daily Baylor Data Sync and Deploy
+name: Daily GMU Data Sync and Deploy
 
 permissions:
   contents: write
