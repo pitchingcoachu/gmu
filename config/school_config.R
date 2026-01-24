@@ -75,8 +75,8 @@ school_config <- list(
   ),
   colors = list(
     primary             = "#105135",   # Mason green inferred from GMUlogo.png
-    accent              = "#ecb010",   # Mason gold from the same logo
-    accent_secondary    = "#0f0f0f",   # strong dark for contrast
+    accent              = "#105135",   # deep green for highlights
+    accent_secondary    = "#ecb010",   # Mason gold for gradients/accents
     background          = "#ffffff",   # clean light page base
     background_secondary= "#ececec"    # subtle soft background
   ),
