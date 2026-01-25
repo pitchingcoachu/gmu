@@ -82,7 +82,11 @@ school_config <- list(
   ),
   logo = "GMUlogo.png",
   coaches_emails = c(
-    "twinter7@gmu.edu"
+    "twinter7@gmu.edu",
+    "Tnelin@gmu.edu",
+    "Eduhon@gmu.edu",
+    "Kdarmst@gmu.edu",
+    "scamp4@gmu.edu"
   ),
   notes_api = list(
     base_url = "https://script.google.com/macros/s/AKfycbyVCAS3-BOHGBOaoGxI2Ehwt65l4_TfdS7fAJebXOYZ2mwSPvLiRUXKbljhvhzaFByI/exec",
