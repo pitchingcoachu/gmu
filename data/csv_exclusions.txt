@@ -840,3 +840,11 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260211-GrierField-1.csv
 # Auto-pruned non-team data
 20260211-TommyCareyField-1.csv
+# Auto-pruned non-team data
+20260212-JackBowlingField-1_unverified.csv
+# Auto-pruned non-team data
+20260212-JimReevesField-1_unverified.csv
+# Auto-pruned non-team data
+20260212-PaulDemieMainieriField-1_unverified.csv
+# Auto-pruned non-team data
+20260212-WilliamCarey-1_unverified.csv
