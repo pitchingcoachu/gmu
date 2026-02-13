@@ -848,3 +848,5 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260212-PaulDemieMainieriField-1_unverified.csv
 # Auto-pruned non-team data
 20260212-WilliamCarey-1_unverified.csv
+# Auto-pruned non-team data
+20260212-DicksonStadium-1_unverified.csv
