@@ -4,7 +4,7 @@ school_config <- list(
   team_code = "GMU",
   # Additional school-code markers used in TrackMan team columns (optional).
   # These are checked alongside team_code during allowed-player verification.
-  team_code_markers = c("SOU_RED", "GMU"),
+  team_code_markers = c("GEO_PAT", "GMU"),
   allowed_pitchers = c(
     "Blanchard, Evan",
     "Butler, Jake",
