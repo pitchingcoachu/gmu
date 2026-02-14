@@ -1,8 +1,10 @@
 # School-specific overrides for the shared app.
 # Copy this file to another repo and keep the same structure when you need to customize colors, logos, APIs, etc.
 school_config <- list(
-  team_code = "gmu",
-  # Player filters
+  team_code = "GMU",
+  # Additional school-code markers used in TrackMan team columns (optional).
+  # These are checked alongside team_code during allowed-player verification.
+  team_code_markers = c("SOU_RED", "GMU"),
   allowed_pitchers = c(
     "Blanchard, Evan",
     "Butler, Jake",
@@ -93,7 +95,7 @@ school_config <- list(
     token = "gmubaseball"
   ),
   extra = list(
-    school_name = "gmu",
+    school_name = "GMU",
     ftp_folder = "trackman",
     cloudinary_folder = "trackman"
   )
