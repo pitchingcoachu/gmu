@@ -2864,3 +2864,17 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260217-UTSanAntonio-1.csv
 # Auto-pruned non-team data
 20260217-WilsonField-1.csv
+# Auto-pruned non-team data
+20260213-UTSanAntonio-1.csv
+# Auto-pruned non-team data
+20260214-ClevelandCommunityCollegeBaseballField-1_unverified.csv
+# Auto-pruned non-team data
+20260214-ClevelandCommunityCollegeBaseballField-2_unverified.csv
+# Auto-pruned non-team data
+20260214-OdessaCollege-1.csv
+# Auto-pruned non-team data
+20260215-RodenField-1.csv
+# Auto-pruned non-team data
+20260215-RodenField-3.csv
+# Auto-pruned non-team data
+20260215-WarHawkField-1.csv
