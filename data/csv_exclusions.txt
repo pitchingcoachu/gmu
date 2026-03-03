@@ -7356,3 +7356,7 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260302-UofWashington-1_unverified.csv
 # Auto-pruned non-team data
 20260302-UTArlington-1_unverified.csv
+# Auto-pruned non-team data
+20260227-GaryWright-1.csv
+# Auto-pruned non-team data
+20260302-LSU-1_unverified.csv
