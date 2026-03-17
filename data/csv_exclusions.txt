@@ -12380,3 +12380,7 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260315-YoungMemorialField-1.csv
 # Auto-pruned non-team data
 20260316-HubHollisField-1_unverified.csv
+# Auto-pruned non-team data
+20260316-MarichFieldLaptop-1_unverified.csv
+# Auto-pruned non-team data
+20260316-PaulDemieMainieriField-1_unverified.csv
