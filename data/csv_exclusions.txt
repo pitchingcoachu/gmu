@@ -13992,3 +13992,55 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260321-WichitaState-2_unverified.csv
 # Auto-pruned non-team data
 20260321-WilliamCarey-3_unverified.csv
+# Auto-pruned non-team data
+20260321-CurtisGrandisonStadium-3_unverified.csv
+# Auto-pruned non-team data
+20260321-EarlEWilsonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260321-HardtField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-IllinoisWesleyan-1_unverified.csv
+# Auto-pruned non-team data
+20260321-UofSanDiego-1_unverified.csv
+# Auto-pruned non-team data
+20260321-AllenField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-CommunityBankPark-1_unverified.csv
+# Auto-pruned non-team data
+20260321-CommunityBankPark-2_unverified.csv
+# Auto-pruned non-team data
+20260321-DedeauxField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-DixonField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-DixonField-2_unverified.csv
+# Auto-pruned non-team data
+20260321-GeorgeFox-1_unverified.csv
+# Auto-pruned non-team data
+20260321-GeorgeFox-2_unverified.csv
+# Auto-pruned non-team data
+20260321-GeorgiaGwinnett-1_unverified.csv
+# Auto-pruned non-team data
+20260321-GeorgiaGwinnett-2_unverified.csv
+# Auto-pruned non-team data
+20260321-IllinoisWesleyan-2_unverified.csv
+# Auto-pruned non-team data
+20260321-NortheastMissCCField-2_unverified.csv
+# Auto-pruned non-team data
+20260321-NorthernIllinois-3_unverified.csv
+# Auto-pruned non-team data
+20260321-OwenTCarrollField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-PresleyAskewField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-RayFisher-1_unverified.csv
+# Auto-pruned non-team data
+20260321-RudyAbbottField-1_unverified.csv
+# Auto-pruned non-team data
+20260321-RudyAbbottField-2_unverified.csv
+# Auto-pruned non-team data
+20260321-RudyAbbottField-3_unverified.csv
+# Auto-pruned non-team data
+20260321-TreveccaNazareneBC-1_unverified.csv
+# Auto-pruned non-team data
+20260321-UArizona-1_unverified.csv
