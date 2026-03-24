@@ -14876,3 +14876,11 @@ practice_2026_01_21_Pitching_2026-01-21T205653_verified.csv
 20260322-WoernerField-1.csv
 # Auto-pruned non-team data
 20260323-MillersvilleU-1_unverified.csv
+# Auto-pruned non-team data
+20260323-700-HughAdamsPark-1_unverified.csv
+# Auto-pruned non-team data
+20260323-AngelinaCollege-1_unverified.csv
+# Auto-pruned non-team data
+20260323-BaggettStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260323-KleinField-1_unverified.csv
